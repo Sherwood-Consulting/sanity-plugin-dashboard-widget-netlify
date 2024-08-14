@@ -1,5 +1,5 @@
 {
-  "name": "sherwood-consulting-sanity-plugin-dashboard-widget-netlify",
+  "name": "sanity-plugin-dashboard-widget-netlify-sherwoodco",
   "version": "2.0.1",
   "description": "Sanity Studio Dashboard Widget for triggering Netlify builds with updated peer dependencies",
   "keywords": [
@@ -117,7 +117,8 @@
   },
   "sanityPlugin": {
     "verifyPackage": {
-      "babelConfig": false
+      "babelConfig": false,
+      "packageName": false
     }
   }
 }
