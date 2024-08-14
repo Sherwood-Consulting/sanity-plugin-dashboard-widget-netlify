@@ -1,7 +1,7 @@
 {
   "name": "sanity-plugin-dashboard-widget-netlify",
   "version": "2.0.1",
-  "description": "Sanity Studio Dashboard Widget for triggering Netlify builds",
+  "description": "Sanity Studio Dashboard Widget for triggering Netlify builds with updated peer dependencies",
   "keywords": [
     "sanity",
     "plugin",
@@ -9,13 +9,9 @@
     "widget",
     "netlify"
   ],
-  "homepage": "https://github.com/sanity-io/sanity-plugin-dashboard-widget-netlify#readme",
-  "bugs": {
-    "url": "https://github.com/sanity-io/sanity-plugin-dashboard-widget-netlify/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/sanity-plugin-dashboard-widget-netlify.git"
+    "url": "git@github.com:Sherwood-Consulting/sanity-plugin-dashboard-widget-netlify.git"
   },
   "license": "MIT",
   "author": "Sanity.io <hello@sanity.io>",
