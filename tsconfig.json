@@ -20,5 +20,6 @@
     "checkJs": false,
     "rootDir": "src"
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules/**", "package.config.ts", "test/**"]
 }

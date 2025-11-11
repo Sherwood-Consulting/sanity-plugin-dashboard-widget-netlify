@@ -4,6 +4,7 @@ export default defineConfig({
   dist: 'lib',
   minify: true,
   legacyExports: true,
+  runtime: 'node',
   // Remove this block to enable strict export validation
   extract: {
     rules: {
