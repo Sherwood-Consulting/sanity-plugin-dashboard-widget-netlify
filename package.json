@@ -94,10 +94,10 @@
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
     "prettier-plugin-packagejson": "^2.3.0",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19",
     "rimraf": "^3.0.2",
-    "sanity": "^3.0.0",
+    "sanity": "^3.0.0 || ^4.0.0",
     "styled-components": "^5.3.6",
     "ts-jest": "^29.0.3",
     "typescript": "^4.8.4"
